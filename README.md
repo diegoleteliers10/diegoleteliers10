@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Diego+Letelier....;Nice+to+meet+you!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Diego+Letelier....;Nice+to+meet+you!&center=true&color=F70E0E&size=27">
   </a>
 </h1>
 <h3 align="center">A passionate Full Stack Developer from Chile</h3>
