@@ -68,7 +68,10 @@
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-      alt="webpack" width="40" height="40" /> </a></div></p>
+      alt="webpack" width="40" height="40" /> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"
+    alt="django" width="40" height="40" />
+</a></div></p>
 
 <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoleteliers10&show_icons=true&locale=en&layout=compact"
