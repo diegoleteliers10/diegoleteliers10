@@ -19,7 +19,7 @@
       src="https://github-profile-trophy.vercel.app/?username=diegoleteliers10"
  alt="diegoleteliers10" /></a> </p>
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working on **GFIT ReactNative App**
 
 - 🌱 I’m currently learning **TypeScript, AWS and ReactNative**
 
