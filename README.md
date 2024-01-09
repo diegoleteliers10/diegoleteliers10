@@ -19,11 +19,11 @@
       src="https://github-profile-trophy.vercel.app/?username=diegoleteliers10"
  alt="diegoleteliers10" /></a> </p>
 
-- 🔭 I’m currently working on **GFIT ReactNative App**
+- 🔭 I’m currently working on **No projects yet**
 
-- 🌱 I’m currently learning **TypeScript, AWS and ReactNative**
+- 🌱 I’m currently learning **TypeScript and ReactNative**
 
-- 👨‍💻 All of my projects are available at <a href='http://diegoletelierdev.vercel.app'> diegoletelierdev.vercel.app </a>
+- 👨‍💻 All of my projects are available at <a href='http://diegoletelierdev.vercel.app'> dldev.vercel.app </a>
 
 - 📫 How to reach me **diegoleteliers10@gmail.com**
 
