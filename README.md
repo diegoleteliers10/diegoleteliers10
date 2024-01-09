@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **TypeScript and ReactNative**
 
-- 👨‍💻 All of my projects are available at <a href='http://diegoletelierdev.vercel.app'> dldev.vercel.app </a>
+- 👨‍💻 All of my projects are available at <a href='http://dldev.vercel.app'> dldev.vercel.app </a>
 
 - 📫 How to reach me **diegoleteliers10@gmail.com**
 
