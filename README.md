@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **No projects yet**
 
-- 🌱 I’m currently learning **TypeScript and ReactNative**
+- 🌱 I’m currently learning **ReactNative & ElysiaJs**
 
 - 👨‍💻 All of my projects are available at <a href='http://dldev.vercel.app'> dldev.vercel.app </a>
 
 - 📫 How to reach me **diegoleteliers10@gmail.com**
 
-- 📄 Know about my experiences [cv in progress...](cv in progress...)
+- 📄 Know about my experiences <a href='http://dlcv.vercel.app'>dlcv.vercel.app </a>
 
   
 ###
