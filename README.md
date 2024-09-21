@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **No projects yet**
 
-- 🌱 I’m currently learning **ReactNative & ElysiaJs**
+- 🌱 I’m currently learning **Flutter & Nest.js**
 
 - 👨‍💻 All of my projects are available at <a href='http://dldev.vercel.app'> dldev.vercel.app </a>
 
-- 📫 How to reach me **diegoleteliers10@gmail.com**
+- 📫 How to reach me **dleteliersr@gmail.com**
 
 - 📄 Know about my experiences <a href='http://dlcv.vercel.app'>dlcv.vercel.app </a>
 
