@@ -1,11 +1,11 @@
-<h2 align="center">Hi 👋! My name is Diego Letelier and I'm a Full Stack Developer, from Chile</h2>
+<h2 align="center">Hi 👋! My name is Diego Letelier and I'm a Engeenier, from Chile</h2>
 
 
 ###
 
-- 🔭 I’m currently working on **No projects yet**
+- 🔭 I’m currently working on Rise&Shine
 
-- 🌱 I’m currently learning **Flutter & Nest.js**
+- 🌱 I’m currently learning **React Native (Expo) & Nest.js**
 
 - 👨‍💻 All of my projects are available at <a href='https://dlsdev.vercel.app/'> https://dlsdev.vercel.app/ </a>
 
