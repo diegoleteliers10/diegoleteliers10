@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React Native (Expo) & Nest.js**
 
-- 👨‍💻 All of my projects are available at <a href='https://dlsdev.vercel.app/'> https://dlsdev.vercel.app/ </a>
+- 👨‍💻 All of my projects are available at <a href='https://dlsdev.vercel.app/'> https://dlsdev.vercel.app/ (not finished with responsiveness)</a>
 
 - 📫 How to reach me **dleteliersr@gmail.com**
 
-- 📄 Know about my experiences <a href='http://dlcv.vercel.app'>dlcv.vercel.app </a>
+- 📄 I’m currently working on my project **Toc Toc** (as a hobbie i'm doing a mobile app for a webapp called Toc Toc which is a platform for renting or buying properties like houses or apartaments) 
 
   
 ###
