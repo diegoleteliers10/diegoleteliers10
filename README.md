@@ -3,11 +3,11 @@
 
 ###
 
-- 🔭 I’m currently working on Rise&Shine
+- 🔭 I’m currently working on Biovity & GigSy
 
-- 🌱 I’m currently learning **React Native (Expo) & Nest.js**
+- 🌱 I’m currently learning **React Native (Expo) & Nest.js & Rust**
 
-- 👨‍💻 All of my projects are available at <a href='https://dlsdev.vercel.app/'> https://dlsdev.vercel.app/ (not finished with responsiveness)</a>
+- 👨‍💻 All of my projects are available at <a href='#'> working on the new portfolio...</a>
 
 - 📫 How to reach me **dleteliersr@gmail.com**
 
