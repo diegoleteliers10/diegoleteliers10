@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=diegoleteliers10&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E&rank_icon=github" alt="GitHub Stats" />
+<img align="right" width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diegoleteliers10&theme=github_dark" alt="GitHub Stats" />
 
 ```typescript
 const diego: Developer = {
