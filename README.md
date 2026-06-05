@@ -98,8 +98,12 @@ const diego: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoleteliers10&theme=github-dark-blue&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8B949E&dates=8B949E&stroke=64FFDA22" height="155" alt="Streak Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoleteliers10&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=8B949E" height="155" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoleteliers10&theme=github-dark-blue&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8B949E&dates=8B949E" height="155" alt="Streak Stats"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegoleteliers10&theme=github_dark" height="155" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diegoleteliers10&theme=github_dark" height="155" alt="Most Commit Language"/>
 
 </div>
 
