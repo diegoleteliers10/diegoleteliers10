@@ -50,9 +50,9 @@ const diego: Developer = {
 <div align="center">
 
 [![churn_prediction](https://github-readme-stats.vercel.app/api/pin/?username=diegoleteliers10&repo=churn_prediction&theme=github_dark&hide_border=true&bg_color=161B22&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E)](https://github.com/diegoleteliers10/churn_prediction)
-[![riseAndShine](https://github-readme-stats.vercel.app/api/pin/?username=diegoleteliers10&repo=riseAndShine&theme=github_dark&hide_border=true&bg_color=161B22&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E)](https://github.com/diegoleteliers10/riseAndShine)
-[![toctoc-api](https://github-readme-stats.vercel.app/api/pin/?username=diegoleteliers10&repo=toctoc-api&theme=github_dark&hide_border=true&bg_color=161B22&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E)](https://github.com/diegoleteliers10/toctoc-api)
-[![puraluz](https://github-readme-stats.vercel.app/api/pin/?username=diegoleteliers10&repo=puraluz&theme=github_dark&hide_border=true&bg_color=161B22&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E)](https://github.com/diegoleteliers10/puraluz)
+[![fasty](https://github-readme-stats.vercel.app/api/pin/?username=diegoleteliers10&repo=fasty&theme=github_dark&hide_border=true&bg_color=161B22&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E)](https://github.com/diegoleteliers10/fasty)
+[![biovity](https://github-readme-stats.vercel.app/api/pin/?username=diegoleteliers10&repo=biovity&theme=github_dark&hide_border=true&bg_color=161B22&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E)](https://github.com/diegoleteliers10/biovity)
+[![portmanager-extension](https://github-readme-stats.vercel.app/api/pin/?username=diegoleteliers10&repo=portmanager-extension&theme=github_dark&hide_border=true&bg_color=161B22&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E)](https://github.com/diegoleteliers10/portmanager-extension)
 
 </div>
 
