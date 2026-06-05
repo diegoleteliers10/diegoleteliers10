@@ -49,10 +49,12 @@ const diego: Developer = {
 
 <div align="center">
 
-[![churn_prediction](https://github-readme-stats.vercel.app/api/pin/?username=diegoleteliers10&repo=churn_prediction&theme=github_dark&hide_border=true&bg_color=161B22&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E)](https://github.com/diegoleteliers10/churn_prediction)
-[![fasty](https://github-readme-stats.vercel.app/api/pin/?username=diegoleteliers10&repo=fasty&theme=github_dark&hide_border=true&bg_color=161B22&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E)](https://github.com/diegoleteliers10/fasty)
-[![biovity](https://github-readme-stats.vercel.app/api/pin/?username=diegoleteliers10&repo=biovity&theme=github_dark&hide_border=true&bg_color=161B22&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E)](https://github.com/diegoleteliers10/biovity)
-[![portmanager-extension](https://github-readme-stats.vercel.app/api/pin/?username=diegoleteliers10&repo=portmanager-extension&theme=github_dark&hide_border=true&bg_color=161B22&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E)](https://github.com/diegoleteliers10/portmanager-extension)
+| Project | Description | Stack | Stars |
+|:--------|:------------|:------|:-----:|
+| [**churn_prediction**](https://github.com/diegoleteliers10/churn_prediction) | Data science project to predict churn clients | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [![Stars](https://img.shields.io/github/stars/diegoleteliers10/churn_prediction?style=flat-square&color=64FFDA&labelColor=0D1117)](https://github.com/diegoleteliers10/churn_prediction) |
+| [**fasty**](https://github.com/diegoleteliers10/fasty) | Linux-native terminal emulator targeting Ghostty-level performance | ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white) ![wgpu](https://img.shields.io/badge/wgpu-0D1117?style=flat-square&logoColor=white) | [![Stars](https://img.shields.io/github/stars/diegoleteliers10/fasty?style=flat-square&color=64FFDA&labelColor=0D1117)](https://github.com/diegoleteliers10/fasty) |
+| [**biovity**](https://github.com/diegoleteliers10/biovity) | AI-powered talent platform for Chile's life sciences sector | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | [![Stars](https://img.shields.io/github/stars/diegoleteliers10/biovity?style=flat-square&color=64FFDA&labelColor=0D1117)](https://github.com/diegoleteliers10/biovity) |
+| [**portmanager-extension**](https://github.com/diegoleteliers10/portmanager-extension) | Raycast extension for managing ports | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Raycast](https://img.shields.io/badge/Raycast-FF6363?style=flat-square&logo=raycast&logoColor=white) | [![Stars](https://img.shields.io/github/stars/diegoleteliers10/portmanager-extension?style=flat-square&color=64FFDA&labelColor=0D1117)](https://github.com/diegoleteliers10/portmanager-extension) |
 
 </div>
 
