@@ -1,102 +1,108 @@
-<h2 align="center">Hi 👋! My name is Diego Letelier and I'm a Engeenier, from Chile</h2>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Diego+Letelier+%F0%9F%91%8B;Software+Engineer+%F0%9F%87%A8%F0%9F%87%B1;Building+Biovity+%26+GigSy;Open-Source+Lead+%40+indies.la)](https://git.io/typing-svg)
 
-###
+<br/>
 
-- 🔭 I’m currently working on Biovity & GigSy
+[![Portfolio](https://img.shields.io/badge/Portfolio-dlegoletelierdev.vercel.app-64FFDA?style=flat-square&logo=vercel&logoColor=64FFDA&labelColor=0D1117)](https://diegoletelierdev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diegoleteliers10-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/diegoleteliers10/)
+[![Gmail](https://img.shields.io/badge/Gmail-dleteliersr@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:dleteliersr@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@diegoleteliers__-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/diegoleteliers_)
 
-- 🌱 I’m currently learning **React Native (Expo) & Nest.js & Rust**
+</div>
 
-- 👨‍💻 All of my projects are available at <a href='#'> working on the new portfolio...</a>
+---
 
-- 📫 How to reach me **dleteliersr@gmail.com**
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=diegoleteliers10&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E&rank_icon=github" />
 
-- 📄 I’m currently working on my project **Toc Toc** (as a hobbie i'm doing a mobile app for a webapp called Toc Toc which is a platform for renting or buying properties like houses or apartaments) 
+### 🧑‍💻 About Me
 
-  
-###
+```typescript
+const diego = {
+  location : "Santiago, Chile 🇨🇱",
+  studying : "Industrial Civil Engineering @ UDD",
+  bootcamp : "SoyHenry Graduate",
+  building : ["Biovity", "GigSy"],
+  learning : ["Rust", "NestJS", "React Native"],
+  community: "Open-Source Lead @ indies.la",
+  hobbies  : ["open-source", "linux", "investing"],
+};
+```
+
+- 🔭 Currently building **[Biovity](https://biovity.cl)** — AI talent platform for life sciences
+- 🌱 Deepening skills in **Rust, NestJS & Expo**
+- 🏗 Exploring a Linux-native **terminal emulator** in Rust + wgpu
+- 📬 Reach me at **dleteliersr@gmail.com**
+
+<br clear="right"/>
+
+---
+
+### 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegoleteliers10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoleteliers10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+[![churn_prediction](https://github-readme-stats.vercel.app/api/pin/?username=diegoleteliers10&repo=churn_prediction&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E)](https://github.com/diegoleteliers10/churn_prediction)
+[![riseAndShine](https://github-readme-stats.vercel.app/api/pin/?username=diegoleteliers10&repo=riseAndShine&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E)](https://github.com/diegoleteliers10/riseAndShine)
+[![toctoc-api](https://github-readme-stats.vercel.app/api/pin/?username=diegoleteliers10&repo=toctoc-api&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E)](https://github.com/diegoleteliers10/toctoc-api)
+[![puraluz](https://github-readme-stats.vercel.app/api/pin/?username=diegoleteliers10&repo=puraluz&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=8B949E)](https://github.com/diegoleteliers10/puraluz)
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<br clear="both">
+### 🛠 Tech Stack
 
 <div align="center">
-  <a href="https://instagram.com/diegoleteliers_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:dleteliersr@gmail.com " target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/diegoleteliers10/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+
+**Core**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Rust](https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=CE422B)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-0D1117?style=flat-square&logo=expo&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+**Backend & Data**
+
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=336791)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
+![Jest](https://img.shields.io/badge/Jest-0D1117?style=flat-square&logo=jest&logoColor=C21325)
+
 </div>
 
-###
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoleteliers10&theme=github-dark-blue&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8B949E&dates=8B949E" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoleteliers10&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=8B949E" height="150"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=diegoleteliers10&style=flat-square&color=64FFDA&label=visitors" alt="profile views"/>
+  <br/><br/>
+  <sub>Made with ☕ from Santiago, Chile · Always shipping</sub>
+</div>
