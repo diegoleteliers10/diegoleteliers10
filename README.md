@@ -29,7 +29,7 @@ const diego: Developer = {
   location : "Santiago, Chile 🇨🇱",
   education: "Industrial Civil Engineering @ UDD",
   training : "SoyHenry Bootcamp Graduate",
-  building : ["Biovity 🧬", "GigSy 💼"],
+  building : ["Biovity 🧬", "Fasty 💼"],
   community: "Open-Source Lead @ indies.la",
   currently: "Learning Rust + wgpu",
   fun_fact  : "I debug faster with ☕",
